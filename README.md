@@ -1,1 +1,2 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryooout&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryooout&theme=radical&layout=compact)](https://github.com/ryooout/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryooout&theme=onedark)](https://github.com/ryooout/github-profile-trophy)
